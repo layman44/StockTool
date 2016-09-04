@@ -1,0 +1,6 @@
+F:\yc\projects\C#\stock\GetStockDailyTradeDetail\GetStockDailyTradeDetail\bin\Debug\GetStockDailyTradeDetail.exe.config
+F:\yc\projects\C#\stock\GetStockDailyTradeDetail\GetStockDailyTradeDetail\bin\Debug\GetStockDailyTradeDetail.exe
+F:\yc\projects\C#\stock\GetStockDailyTradeDetail\GetStockDailyTradeDetail\bin\Debug\GetStockDailyTradeDetail.pdb
+F:\yc\projects\C#\stock\GetStockDailyTradeDetail\GetStockDailyTradeDetail\obj\Debug\GetStockDailyTradeDetail.csprojResolveAssemblyReference.cache
+F:\yc\projects\C#\stock\GetStockDailyTradeDetail\GetStockDailyTradeDetail\obj\Debug\GetStockDailyTradeDetail.exe
+F:\yc\projects\C#\stock\GetStockDailyTradeDetail\GetStockDailyTradeDetail\obj\Debug\GetStockDailyTradeDetail.pdb
